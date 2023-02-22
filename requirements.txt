@@ -1,0 +1,8 @@
+flask
+transformers
+stanfordnlp
+torch
+PyPDF2
+numpy
+torchmetrics
+nltk
